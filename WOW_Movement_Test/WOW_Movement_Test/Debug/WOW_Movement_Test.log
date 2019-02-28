@@ -1,0 +1,27 @@
+﻿  WOW_Movement_Test.cpp
+c:\users\20ejd01\desktop\c++\wow_movement_test\wow_movement_test\wow_movement_test.cpp(43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\20ejd01\desktop\c++\wow_movement_test\wow_movement_test\wow_movement_test.cpp(46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\20ejd01\desktop\c++\wow_movement_test\wow_movement_test\wow_movement_test.cpp(49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\20ejd01\desktop\c++\wow_movement_test\wow_movement_test\wow_movement_test.cpp(52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\20ejd01\desktop\c++\wow_movement_test\wow_movement_test\wow_movement_test.cpp(67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  WOW_Movement_Test.vcxproj -> C:\Users\20EJD01\Desktop\C++\WOW_Movement_Test\Debug\WOW_Movement_Test.exe
